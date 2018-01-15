@@ -1,0 +1,38 @@
+C:\Users\Administrator\Desktop\database password AES 256\CryptStore\CryptStore\bin\Release\CryptStore.exe.config
+C:\Users\Administrator\Desktop\database password AES 256\CryptStore\CryptStore\bin\Release\CryptStore.exe
+C:\Users\Administrator\Desktop\database password AES 256\CryptStore\CryptStore\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\database password AES 256\CryptStore\CryptStore\obj\Release\PassCrypt.Form1.resources
+C:\Users\Administrator\Desktop\database password AES 256\CryptStore\CryptStore\obj\Release\PassCrypt.Form2.resources
+C:\Users\Administrator\Desktop\database password AES 256\CryptStore\CryptStore\obj\Release\PassCrypt.Resources.resources
+C:\Users\Administrator\Desktop\database password AES 256\CryptStore\CryptStore\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\database password AES 256\CryptStore\CryptStore\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\database password AES 256\CryptStore\CryptStore\obj\Release\CryptStore.exe
+D:\Vari desktop\VB.net\Programmi 2012\Database password AES 256\CryptStore\CryptStore\bin\Release\CryptStore.exe.config
+D:\Vari desktop\VB.net\Programmi 2012\Database password AES 256\CryptStore\CryptStore\obj\Release\CryptStore.exe
+D:\Vari desktop\VB.net\Programmi 2012\Database password AES 256\CryptStore\CryptStore\bin\Release\CryptStore.exe
+D:\Vari desktop\VB.net\Programmi 2012\Database password AES 256\CryptStore\CryptStore\obj\Release\ResolveAssemblyReference.cache
+D:\Vari desktop\VB.net\Programmi 2012\Database password AES 256\CryptStore\CryptStore\obj\Release\PassCrypt.Form1.resources
+D:\Vari desktop\VB.net\Programmi 2012\Database password AES 256\CryptStore\CryptStore\obj\Release\PassCrypt.Form2.resources
+D:\Vari desktop\VB.net\Programmi 2012\Database password AES 256\CryptStore\CryptStore\obj\Release\PassCrypt.Resources.resources
+D:\Vari desktop\VB.net\Programmi 2012\Database password AES 256\CryptStore\CryptStore\obj\Release\GenerateResource.read.1.tlog
+D:\Vari desktop\VB.net\Programmi 2012\Database password AES 256\CryptStore\CryptStore\obj\Release\GenerateResource.write.1.tlog
+C:\Users\a551ln\Documents\Visual Studio 2015\Projects\CryptStore\CryptStore\obj\Release\CryptStore.vbprojResolveAssemblyReference.cache
+C:\Users\a551ln\Documents\Visual Studio 2015\Projects\CryptStore\CryptStore\obj\Release\PassCrypt.Form1.resources
+C:\Users\a551ln\Documents\Visual Studio 2015\Projects\CryptStore\CryptStore\obj\Release\PassCrypt.Form2.resources
+C:\Users\a551ln\Documents\Visual Studio 2015\Projects\CryptStore\CryptStore\obj\Release\PassCrypt.Resources.resources
+C:\Users\a551ln\Documents\Visual Studio 2015\Projects\CryptStore\CryptStore\obj\Release\CryptStore.vbproj.GenerateResource.Cache
+C:\Users\a551ln\Documents\Visual Studio 2015\Projects\CryptStore\CryptStore\obj\Release\PassCrypt.About.resources
+C:\Users\a551ln\Documents\Visual Studio 2015\Projects\CryptStore\CryptStore\obj\Release\PassCrypt.Licenza.resources
+C:\Users\a551ln\Documents\Visual Studio 2015\Projects\CryptStore\CryptStore\bin\Release\AES256 Password Manager.exe.config
+C:\Users\a551ln\Documents\Visual Studio 2015\Projects\CryptStore\CryptStore\bin\Release\AES256 Password Manager.exe
+C:\Users\a551ln\Documents\Visual Studio 2015\Projects\CryptStore\CryptStore\obj\Release\AES256 Password Manager.exe
+C:\Users\mrkaban\Desktop\AES256 Password Manager\AES256 Password Manager\Source Code\CryptStore\bin\Release\AES256 Password Manager.exe.config
+C:\Users\mrkaban\Desktop\AES256 Password Manager\AES256 Password Manager\Source Code\CryptStore\bin\Release\AES256 Password Manager.exe
+C:\Users\mrkaban\Desktop\AES256 Password Manager\AES256 Password Manager\Source Code\CryptStore\obj\Release\CryptStore.vbprojResolveAssemblyReference.cache
+C:\Users\mrkaban\Desktop\AES256 Password Manager\AES256 Password Manager\Source Code\CryptStore\obj\Release\PassCrypt.Form1.resources
+C:\Users\mrkaban\Desktop\AES256 Password Manager\AES256 Password Manager\Source Code\CryptStore\obj\Release\PassCrypt.Form2.resources
+C:\Users\mrkaban\Desktop\AES256 Password Manager\AES256 Password Manager\Source Code\CryptStore\obj\Release\PassCrypt.About.resources
+C:\Users\mrkaban\Desktop\AES256 Password Manager\AES256 Password Manager\Source Code\CryptStore\obj\Release\PassCrypt.Licenza.resources
+C:\Users\mrkaban\Desktop\AES256 Password Manager\AES256 Password Manager\Source Code\CryptStore\obj\Release\PassCrypt.Resources.resources
+C:\Users\mrkaban\Desktop\AES256 Password Manager\AES256 Password Manager\Source Code\CryptStore\obj\Release\CryptStore.vbproj.GenerateResource.Cache
+C:\Users\mrkaban\Desktop\AES256 Password Manager\AES256 Password Manager\Source Code\CryptStore\obj\Release\AES256 Password Manager.exe
